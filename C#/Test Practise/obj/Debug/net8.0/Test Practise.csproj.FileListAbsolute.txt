@@ -1,0 +1,14 @@
+G:\Thomas\1. Normal Stuff\Code\C#\Test Practise\bin\Debug\net8.0\Test Practise.exe
+G:\Thomas\1. Normal Stuff\Code\C#\Test Practise\bin\Debug\net8.0\Test Practise.deps.json
+G:\Thomas\1. Normal Stuff\Code\C#\Test Practise\bin\Debug\net8.0\Test Practise.runtimeconfig.json
+G:\Thomas\1. Normal Stuff\Code\C#\Test Practise\bin\Debug\net8.0\Test Practise.dll
+G:\Thomas\1. Normal Stuff\Code\C#\Test Practise\bin\Debug\net8.0\Test Practise.pdb
+G:\Thomas\1. Normal Stuff\Code\C#\Test Practise\obj\Debug\net8.0\Test Practise.GeneratedMSBuildEditorConfig.editorconfig
+G:\Thomas\1. Normal Stuff\Code\C#\Test Practise\obj\Debug\net8.0\Test Practise.AssemblyInfoInputs.cache
+G:\Thomas\1. Normal Stuff\Code\C#\Test Practise\obj\Debug\net8.0\Test Practise.AssemblyInfo.cs
+G:\Thomas\1. Normal Stuff\Code\C#\Test Practise\obj\Debug\net8.0\Test Practise.csproj.CoreCompileInputs.cache
+G:\Thomas\1. Normal Stuff\Code\C#\Test Practise\obj\Debug\net8.0\Test Practise.dll
+G:\Thomas\1. Normal Stuff\Code\C#\Test Practise\obj\Debug\net8.0\refint\Test Practise.dll
+G:\Thomas\1. Normal Stuff\Code\C#\Test Practise\obj\Debug\net8.0\Test Practise.pdb
+G:\Thomas\1. Normal Stuff\Code\C#\Test Practise\obj\Debug\net8.0\Test Practise.genruntimeconfig.cache
+G:\Thomas\1. Normal Stuff\Code\C#\Test Practise\obj\Debug\net8.0\ref\Test Practise.dll

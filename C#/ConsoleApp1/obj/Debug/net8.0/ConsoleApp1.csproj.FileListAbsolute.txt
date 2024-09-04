@@ -1,0 +1,14 @@
+G:\Thomas\1. Normal Stuff\Code\C#\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.exe
+G:\Thomas\1. Normal Stuff\Code\C#\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.deps.json
+G:\Thomas\1. Normal Stuff\Code\C#\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.runtimeconfig.json
+G:\Thomas\1. Normal Stuff\Code\C#\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.dll
+G:\Thomas\1. Normal Stuff\Code\C#\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.pdb
+G:\Thomas\1. Normal Stuff\Code\C#\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+G:\Thomas\1. Normal Stuff\Code\C#\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfoInputs.cache
+G:\Thomas\1. Normal Stuff\Code\C#\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfo.cs
+G:\Thomas\1. Normal Stuff\Code\C#\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+G:\Thomas\1. Normal Stuff\Code\C#\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.dll
+G:\Thomas\1. Normal Stuff\Code\C#\ConsoleApp1\obj\Debug\net8.0\refint\ConsoleApp1.dll
+G:\Thomas\1. Normal Stuff\Code\C#\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.pdb
+G:\Thomas\1. Normal Stuff\Code\C#\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.genruntimeconfig.cache
+G:\Thomas\1. Normal Stuff\Code\C#\ConsoleApp1\obj\Debug\net8.0\ref\ConsoleApp1.dll
